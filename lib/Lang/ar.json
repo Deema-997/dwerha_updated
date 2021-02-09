@@ -1,0 +1,71 @@
+{
+  "not_selected_location":"يجب عليك اختيار موقعك أولا",
+  "app_name": "Daweerha",
+  "title": "دورها من بيتك",
+  "desc" : "جميع المخلفات المنزلية من أحياء مدينة جدة",
+  "welcome": "مرحبا بكم",
+  "skip" : "تخطي",
+
+  "login" : "تسجيل الدخول",
+  "mobile_number" : "رقم الجوال",
+  "password" : "الرقم السري",
+  "no_account" : "هل لديك حساب؟ إذا لم يكن لديك أنشئ حساب",
+  "new_register" : "تسجيل جديد",
+
+  "register_title":"إنشاء حساب",
+  "full_name" : "الاسم الكامل",
+  "email":"البريد الإلكتروني",
+  "location":"الموقع",
+  "select_location":"اختر موقعك على الخريطة",
+  "location_selected":"تم اختيار الموقع",
+  "choose_account_type":"اختر نوع الحساب",
+  "register_btn":"إنشاء الحساب",
+
+  "pick_your_location":"اختر موقعك",
+
+  "verification_title":"ادخل رقم التحقق المرسل إلى رقم الجوال",
+  "verify":"تحقق",
+
+  "new_order":"طلب جديد",
+  "my_orders":"طلباتي",
+  "logout":"تسجيل الخروج",
+
+  "select_items":"اختر المواد التي لديك",
+  "bags_count":"كمية الأكياس",
+  "attach_image":"إرفاق صورة الأكياس",
+  "send_order":"إرسال الطلب",
+  "select":"اختيار",
+  "remove":"حذف",
+
+  "location_description":"وصف الموقع",
+  "write_desc":"اكتب هنا وصف الموقع",
+  "confirm_address":"تأكيد العنوان",
+
+  "received_success":"تم استلام طلبك بنجاح",
+  "thanks":"شكرا",
+  "for_colla":"لتعاونك معنا",
+  "thanks_bottom":"سيتم تزويدكم بموعد الاستلام لاحقا",
+  "back_to_main":"العودة للواجهة الرئيسية",
+
+  "rate_order":"تقييم الطلب",
+  "easy":"سهل",
+  "medium":"متوسط",
+  "hard":"صعب",
+  "deliver_rate":"تقييم تجربة التوصيل",
+  "satesfied":"راضي",
+  "unsatesfied":"غير راضي",
+  "service_speed_rate":"تقييم سرعة الخدمة",
+  "slow":"بطيئة",
+  "mid":"متوسطة",
+  "fast":"سريعة",
+
+  "new_orders":"الطلبات الجديدة",
+  "my_account":"معلوماتي",
+  "my_points":"نقاطي",
+
+  "show_on_map":"عرض على الخريطة",
+  "show_image":"عرض الصورة",
+  "order_delivered":"تم التسليم",
+  "delete_order":"حذف من القائمة",
+  "start_delivering":"بدء التوصيل"
+}
